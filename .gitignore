@@ -1,0 +1,10 @@
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+.build/
+Debug/
+*.launch
+*.log
